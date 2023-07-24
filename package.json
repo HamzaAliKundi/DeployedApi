@@ -2,13 +2,13 @@
   "name": "youtube-ads-contact-apis",
   "version": "1.0.0",
   "description": "\"Youtube Ads Contact And Blogs\"",
-  "main": "server.js",
+  "main": "index.js",
   "engines": {
     "node": "14.x"
   },
   "scripts": {
-    "start": "node ./server.js",
-    "server": "nodemon ./server.js"
+    "start": "node ./index.js",
+    "server": "nodemon ./index.js"
   },
   "author": "Hamza ALi",
   "license": "MIT",
